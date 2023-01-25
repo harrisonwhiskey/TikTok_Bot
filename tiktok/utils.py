@@ -49,8 +49,7 @@ def username_to_id(username):
 		'User-Agent': random.choice(USER_AGENTS)
 	}
 	proxy = {
-		'http': 'http://hp_whisk1843jmztw4181:3N8uOuBgXtowwYyN@isp2.hydraproxy.com:9989',
-		'https': 'http://hp_whisk1843jmztw4181:3N8uOuBgXtowwYyN@isp2.hydraproxy.com:9989'
+		
 	}
 
 	counter = 0
